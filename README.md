@@ -6,17 +6,17 @@ I am a Software Developer {In Progress💻}
 I'am Umang Bhatia junior software developer from India. I'm deeply passionate about software development, computers and cyber security. Apart from that i have a habit of reading book of different joner like self-help, business, non-fiction etc;
 
 * 🌍  I'm based in Chandigarh, India
-* 🖥️  See my portfolio at [My Portfolio](http://gsharma101.github.io/portfolio2.0/)
-* ✉️  You can contact me at [sharmag8121@gmail.com](mailto:sharmag8121@gmail.com)
+* 🖥️  See my portfolio at [My Portfolio](http://umang1614.github.io/portfolio2.0/)
+* ✉️  You can contact me at [imumangbhatia@gmail.com](mailto:imumangbhatia@gmail.com)
 * 🧠  I'm learning Full-Stack Development in JavaScript
 * 🤝  I'm open to collaborating on projects related to web development and even happy to explore more about other stuf.
 * ⚡  No amount of money ever bought a second of time
 
-![](https://komarev.com/ghpvc/?username=gsharma101)
+![](https://komarev.com/ghpvc/?username=umang1614)
 <a href="https://www.twitter.com/gsharma010" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/gsharma010?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/gsharma101" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/gsharma101?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+/></a><a href="https://www.github.com/umang1614" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/umang1614?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -49,16 +49,16 @@ src="https://img.shields.io/github/followers/gsharma101?logo=github&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/gsharma010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/gsharma010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/gsharma010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/gsharma101" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://gsharma010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gsharma010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gsharma010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/gsharma010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/gsharma010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/gsharma010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/gsharma010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/umang1614" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://gsharma010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gsharma010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gsharma010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/gsharma010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/gsharma101"><img src="https://github-readme-stats.vercel.app/api?username=gsharma101&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gsharma101's GitHub stats" /></a>
+<a href="http://www.github.com/umang1614"><img src="https://github-readme-stats.vercel.app/api?username=umang1614&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="umang1614's GitHub stats" /></a>
 
-<a href="http://www.github.com/gsharma101"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gsharma101&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/umang1614"><img src="https://github-readme-streak-stats.herokuapp.com/?user=umang1614&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/gsharma101"><img src="https://activity-graph.herokuapp.com/graph?username=gsharma101&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/umang1614"><img src="https://activity-graph.herokuapp.com/graph?username=umang1614&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/gsharma101" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsharma101&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/umang1614" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang1614&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
