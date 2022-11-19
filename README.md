@@ -6,9 +6,8 @@ I am a Software Developer {In Progress💻}
 I'am Umang Bhatia junior software developer from India. I'm deeply passionate about software development, computers and cyber security. Apart from that i have a habit of reading book of different joner like self-help, business, non-fiction etc;
 
 * 🌍  I'm based in Chandigarh, India
-* 🖥️  See my portfolio at [My Portfolio]
 * ✉️  You can contact me at [imumangbhatia@gmail.com](mailto:imumangbhatia@gmail.com)
-* 🧠  I'm learning Full-Stack Development in JavaScript
+* 🧠  I'm passionate about software Development
 * 🤝  I'm open to collaborating on projects related to web development and even happy to explore more about other stuf.
 * ⚡  No amount of money ever bought a second of time
 
