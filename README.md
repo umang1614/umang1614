@@ -6,7 +6,7 @@ I am a Software Developer {In Progress💻}
 I'am Umang Bhatia junior software developer from India. I'm deeply passionate about software development, computers and cyber security. Apart from that i have a habit of reading book of different joner like self-help, business, non-fiction etc;
 
 * 🌍  I'm based in Chandigarh, India
-* 🖥️  See my portfolio at [My Portfolio](http://umang1614.github.io/portfolio2.0/)
+* 🖥️  See my portfolio at [My Portfolio]
 * ✉️  You can contact me at [imumangbhatia@gmail.com](mailto:imumangbhatia@gmail.com)
 * 🧠  I'm learning Full-Stack Development in JavaScript
 * 🤝  I'm open to collaborating on projects related to web development and even happy to explore more about other stuf.
@@ -39,8 +39,6 @@ src="https://img.shields.io/github/followers/umang1614?logo=github&style=for-the
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
