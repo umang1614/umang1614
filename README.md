@@ -1,9 +1,9 @@
 Hi 👋 My name is Umang Bhatia
 ==============================
-I am a Software Developer {In Progress💻}
+I am a Software Developer in Evalueserve
 --------------------
 
-I'am Umang Bhatia junior software developer from India. I'm deeply passionate about software development, computers and cyber security. Apart from that i have a habit of reading book of different joner like self-help, business, non-fiction etc;
+I'am Umang Bhatia junior software developer from India. I'm deeply passionate about software development, computers and cyber security. Apart from that i have a habit of reading book of different genre like self-help, business, non-fiction etc;
 
 * 🌍  I'm based in Gurgaon, India
 * ✉️  You can contact me at [imumangbhatia@gmail.com](mailto:imumangbhatia@gmail.com)
